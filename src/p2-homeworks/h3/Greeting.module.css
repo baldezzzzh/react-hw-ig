@@ -1,0 +1,23 @@
+.someClass {
+    border: 1px solid black;
+}
+
+.error {
+    border: 1px solid red;
+}
+.usersCounter{
+    border: 1px solid #219421;
+    max-width: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.greeting{
+    display: flex;
+    max-width: 350px;
+    width: 100%;
+    justify-content: space-between;
+}
